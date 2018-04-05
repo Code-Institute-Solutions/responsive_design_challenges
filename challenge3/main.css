@@ -1,4 +1,6 @@
 section {
     background-color: #e84610;
     height: 100%;
+    paddings:0;
+    margins:0;
 }
